@@ -4,9 +4,9 @@
 
 Variable Message is the Message.
 
-Variable code part one is 50 times 76.
-Variable code part two is 24 divided by 8.
-Variable code part three is 32 plus 678.
+Variable code part one is 5 times 2.
+Variable code part two is 80 divided by 2.
+Variable code part three is 37 plus 2.
 
 Alert with the message, and three code parts separated by hyphens.*/
 
@@ -19,4 +19,4 @@ let codePart2 = 80 / 2;
 let codePart3 = 37 + 2;
 
 //Make the alert and show the user.
-console.log(`${message} \n ${codePart1}-${codePart2}-${codePart3}`);
+alert(`${message} \n ${codePart1}-${codePart2}-${codePart3}`);
